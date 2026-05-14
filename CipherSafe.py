@@ -1,6 +1,5 @@
 """
 CipherSafe - Password Security Auditor
-COMP9001 Final Project
 
 A terminal-based cybersecurity tool for password analysis, generation,
 breach detection, and security education.
@@ -1713,7 +1712,7 @@ def print_menu():
         f"Generated: {c(Colour.CYAN, str(SESSION.passwords_generated))}  "
         f"Strength checks: {c(Colour.CYAN, str(SESSION.strength_checks))}  "
         f"Breach checks: {c(Colour.CYAN, str(SESSION.breach_checks))}  "
-        f"Breaches found: {c(Colour.RED if SESSION.breaches_found else Colour.GREEN, str(SESSION.breaches_found))}"
+        f"Breaches found: {c(Colour.RED if SESSION.breaches_found else Colour.CYAN, str(SESSION.breaches_found))}"
     )
     print(c(Colour.DIM, "  Session ─── ") + stats)
     print()

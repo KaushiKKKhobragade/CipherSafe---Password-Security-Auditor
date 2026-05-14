@@ -2,11 +2,11 @@
 
 # 🔐 CipherSafe — Password Security Auditor
 
-CipherSafe is a Python-powered cybersecurity application built to help users strengthen their digital security through intelligent password analysis, secure password creation, and live breach detection. Designed with a hacker-inspired terminal interface, the project delivers both functionality and an immersive cybersecurity experience.
+**CipherSafe** is a **Python-powered cybersecurity application** built to help users strengthen their digital security through intelligent password analysis, secure password creation, and **live breach detection**. Designed with a **hacker-inspired terminal interface**, the project delivers both functionality and an immersive cybersecurity experience.
 
-A standout feature of CipherSafe is its Dark Web Breach Scanner. Every day, massive collections of stolen passwords are traded and exposed across underground cybercrime networks after data breaches and hacking incidents. CipherSafe performs real-time breach checks to determine whether a password has already appeared in leaked online databases.
+A standout feature of CipherSafe is its **Dark Web Breach Scanner**. Every day, massive collections of stolen passwords are traded and exposed across underground cybercrime networks after data breaches and hacking incidents. CipherSafe performs **real-time breach checks** to determine whether a password has already appeared in leaked online databases.
 
-In today’s digital world, one compromised password can be enough for attackers to break into emails, banking accounts, social platforms, or personal systems using automated credential attacks. CipherSafe helps users recognize these hidden dangers early and promotes stronger, safer password practices before accounts become vulnerable.
+In today’s digital world, **one compromised password** can be enough for attackers to break into emails, banking accounts, social platforms, or personal systems using automated credential attacks. CipherSafe helps users recognize these hidden dangers early and promotes **stronger, safer password practices** before accounts become vulnerable.
 
 ---
 

@@ -7,6 +7,7 @@ CipherSafe is a Python-powered cybersecurity application built to help users str
 A standout feature of CipherSafe is its Dark Web Breach Scanner. Every day, massive collections of stolen passwords are traded and exposed across underground cybercrime networks after data breaches and hacking incidents. CipherSafe performs real-time breach checks to determine whether a password has already appeared in leaked online databases.
 
 In today’s digital world, one compromised password can be enough for attackers to break into emails, banking accounts, social platforms, or personal systems using automated credential attacks. CipherSafe helps users recognize these hidden dangers early and promotes stronger, safer password practices before accounts become vulnerable.
+
 ---
 
 ## 🚀 Features

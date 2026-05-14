@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="CipherSafe" src="https://github.com/user-attachments/assets/5c6c63f1-088e-4083-8ad4-227ff5358c75" />
+
 # 🔐 CipherSafe — Password Security Auditor
 
 CipherSafe is a terminal-based cybersecurity tool built with Python for analysing password strength, generating secure passwords, checking real-world data breaches, and educating users about password security.

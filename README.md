@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="CipherSafe" src="https://github.com/user-attachments/assets/5c6c63f1-088e-4083-8ad4-227ff5358c75" />
+<img width="1536" height="1024" alt="CipherSafe 1" src="https://github.com/user-attachments/assets/734708da-a783-42f2-9618-e35010ce23da" />
 
 # 🔐 CipherSafe — Password Security Auditor
 

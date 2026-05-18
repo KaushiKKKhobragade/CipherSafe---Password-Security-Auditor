@@ -1,4 +1,20 @@
 """
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │    OPERATOR  :  KaushiK aka Kira                             │
+  │    CLEARANCE :  ██████████ MAXIMUM                           │
+  │    LICENSE   :  MIT — Fork it, Clone it, Never Erase My Name.│
+  │                                                              │
+  │  > INITIALIZING CIPHERSAFE...                                │
+  │  > LOADING ENCRYPTION PROTOCOLS...              [OK]         │
+  │  > CONNECTING TO DARK WEB SCANNERS...           [OK]         │
+  │  > BYPASSING FIREWALL...                        [OK]         │
+  │  > ACCESS GRANTED ████████████████████ 100%                  │
+  │                                                              │
+  │              [ HACK THE PLANET. STAY SECURE. ]               │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+  
 CipherSafe - Password Security Auditor
 
 A terminal-based cybersecurity tool for password analysis, generation,

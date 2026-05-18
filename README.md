@@ -3,7 +3,7 @@
 ```
   ┌──────────────────────────────────────────────────────────────┐
   │                                                              │
-  │    OPERATOR  :  KaushiK aka Kira                             │
+  │    WHOAMI    :  KaushiK aka Kira                             │
   │    CLEARANCE :  ██████████ MAXIMUM                           │
   │    LICENSE   :  MIT — Fork it, Clone it, Never Erase My Name.│
   │                                                              │

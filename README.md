@@ -1,5 +1,23 @@
 <img width="1536" height="1024" alt="CipherSafe 1" src="https://github.com/user-attachments/assets/734708da-a783-42f2-9618-e35010ce23da" />
 
+'''
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │    OPERATOR  :  KaushiK aka Kira                             │
+  │    CLEARANCE :  ██████████ MAXIMUM                           │
+  │    LICENSE   :  MIT — Fork it, Clone it, Never Erase My Name.│
+  │                                                              │
+  │  > INITIALIZING CIPHERSAFE...                                │
+  │  > LOADING ENCRYPTION PROTOCOLS...              [OK]         │
+  │  > CONNECTING TO DARK WEB SCANNERS...           [OK]         │
+  │  > BYPASSING FIREWALL...                        [OK]         │
+  │  > ACCESS GRANTED ████████████████████ 100%                  │
+  │                                                              │
+  │              [ HACK THE PLANET. STAY SECURE. ]               │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
+'''
+
 # 🔐 CipherSafe — Password Security Auditor
 
 **CipherSafe** is a **Python-powered cybersecurity application** built to help users strengthen their digital security through intelligent password analysis, secure password creation, and **live breach detection**. Designed with a **hacker-inspired terminal interface**, the project delivers both functionality and an immersive cybersecurity experience.

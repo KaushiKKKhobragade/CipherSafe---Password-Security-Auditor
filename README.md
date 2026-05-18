@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="CipherSafe 1" src="https://github.com/user-attachments/assets/734708da-a783-42f2-9618-e35010ce23da" />
 
-```
+<pre>
   ┌──────────────────────────────────────────────────────────────┐
   │                                                              │
   │    WHOAMI    :  KaushiK aka Kira                             │
@@ -16,7 +16,7 @@
   │              [ HACK THE PLANET. STAY SECURE. ]               │
   │                                                              │
   └──────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 # 🔐 CipherSafe — Password Security Auditor
 

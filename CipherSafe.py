@@ -256,7 +256,7 @@ def _print_startup_tip():
 
 
 # ─────────────────────────────────────────────
-#  DATA — TOP 500 COMMON PASSWORDS (built-in)
+#  DATA — TOP COMMON PASSWORDS (built-in)
 # ─────────────────────────────────────────────
 
 COMMON_PASSWORDS = {

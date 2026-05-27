@@ -89,6 +89,6 @@ A unique feature that estimates how long a password would take to crack across d
 ### Clone the Repository
 
 ```bash
-https://github.com/KaushiKKKhobragade/CipherSafe---Password-Security-Auditor.git
+git clone https://github.com/KaushiKKKhobragade/CipherSafe---Password-Security-Auditor.git
 cd CipherSafe
 python3 CipherSafe.py
